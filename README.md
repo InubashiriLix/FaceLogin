@@ -7,3 +7,5 @@ mingw32-make
 Linux
 cmake ..
 make
+
+using the opencv 4.6 ++
